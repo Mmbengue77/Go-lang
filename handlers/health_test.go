@@ -4,8 +4,9 @@ import (
 	"net/http"
 	"testing"
 
+	"estiam_golang_api_course_finalproject/tests"
+
 	"github.com/labstack/echo/v4"
-	"github.com/phramos07/finalproject/tests"
 	"github.com/stretchr/testify/assert"
 )
 
